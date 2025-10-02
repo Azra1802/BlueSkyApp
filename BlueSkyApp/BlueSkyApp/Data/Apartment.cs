@@ -19,6 +19,9 @@ namespace BlueSkyApp.Data
         public DateTime? CreatedAt { get; set; }
 
         public virtual Property? Property { get; set; }
+        public int Capacity { get; set; }
+        public int NumberOfRooms { get; set; }
+        public decimal PricePerNight { get; set; }
         public virtual ICollection<Inventory> Inventories { get; set; }
         public virtual ICollection<Reservation> Reservations { get; set; }
         public virtual ICollection<Task> Tasks { get; set; }

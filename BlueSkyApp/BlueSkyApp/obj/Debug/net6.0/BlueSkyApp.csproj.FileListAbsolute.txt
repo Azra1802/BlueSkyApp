@@ -5,7 +5,6 @@ C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\ne
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\net6.0\BlueSkyApp.deps.json
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\net6.0\BlueSkyApp.runtimeconfig.json
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\net6.0\BlueSkyApp.dll
-C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\net6.0\ref\BlueSkyApp.dll
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\net6.0\BlueSkyApp.pdb
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -63,8 +62,9 @@ C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\ne
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\scopedcss\bundle\BlueSkyApp.styles.css
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\scopedcss\projectbundle\BlueSkyApp.bundle.scp.css
-C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\BlueSkyApp.csproj.CopyComplete
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\BlueSkyApp.dll
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\ref\BlueSkyApp.dll
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\BlueSkyApp.pdb
 C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\BlueSkyApp.genruntimeconfig.cache
+C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\bin\Debug\net6.0\ref\BlueSkyApp.dll
+C:\Users\DT User6\OneDrive\Desktop\BlueSkyApp\BlueSkyApp\BlueSkyApp\obj\Debug\net6.0\BlueSkyApp.csproj.CopyComplete
